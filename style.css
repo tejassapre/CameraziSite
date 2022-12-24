@@ -101,6 +101,11 @@ border-radius: 10px;}
     justify-content: space-around;
     margin-left: 213px;
 }
+
+.container8 button{
+    display: flex;
+    margin-right:20px ;
+}
 .container8 img{
     display: flex;
     justify-content: center;
@@ -111,6 +116,7 @@ border-radius: 10px;}
 }
 
 .container9 img{
+    display: flex;
     width: 100%;
     height: 300px;
 }
