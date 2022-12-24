@@ -1,0 +1,140 @@
+
+nav{
+    display: flex;
+    
+}
+.container2 ul li{
+    text-decoration: none;
+    list-style-type: none;
+    padding: 16px 124px;
+    font-size: xx-large;
+    font-family: cursive;
+}
+
+.container3{
+    padding: 16px 124px;
+}
+
+.card-body{
+border-radius: 10px;}
+
+.card-title img{
+    height: 50px;
+    width: 50px;   
+}
+
+.card{
+    width: 630px;
+
+}
+
+.header5{
+    padding: 20px 20px;
+}
+
+.container7{
+    background-color: rgb(187, 187, 187);
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.containerss img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:70px;
+    width:60px ;
+    margin: 0px 140px;
+}
+
+.containerss .card-body{
+   margin: 20px 100px;
+}
+
+.box1{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 100%;
+    height: 150px;
+    margin: 20px;
+    box-sizing: border-box;
+    border: 2px solid aliceblue;
+    background-color: aliceblue;
+    margin: 20px 12px;
+    border-radius: 10px;
+    box-shadow:10px 10px 5px gray;
+
+}
+
+.box1 img{
+    height: 40px;
+    width: 40px;
+}
+
+.sale{
+    background-color: rgb(203, 201, 201);
+    border-radius: 3px;
+}
+
+.container8{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px 10px;
+}
+.container8 img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 300px;
+    margin: 10px 30px;
+}
+
+.container9 img{
+    width: 100%;
+    height: 300px;
+}
+
+.container10{
+    display: flex;
+    background-color: rgb(187, 187, 187);
+}
+
+.container10 img{
+    height: 130px;
+    width: 700px;
+}
+
+
+
+.container11{
+    display: flex;
+    background-color: rgb(187, 187, 187);
+}
+
+.container11 button{
+    display: flex;
+    margin: 20px 30px;
+}
+
+
+.testimonial-card .card-up {
+    height: 120px;
+    overflow: hidden;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+  }
+  .testimonial-card .avatar {
+    width: 110px;
+    margin-top: -60px;
+    overflow: hidden;
+    border: 3px solid #fff;
+    border-radius: 50%;
+  }
+
+  
